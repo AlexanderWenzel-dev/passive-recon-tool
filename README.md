@@ -71,8 +71,8 @@ When executed against a target domain, the framework provides a structured, acti
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com
-   cd passive-recon-tool
+   git clone https://github.com/AlexanderWenzel-dev/yndra
+   cd yndra
    ```
 
 2. **Install High-Stealth Dependencies:**
