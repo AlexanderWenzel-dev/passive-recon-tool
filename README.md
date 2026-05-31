@@ -1,4 +1,4 @@
-# 🛡️ Advanced Passive Reconnaissance & CTI Framework
+# 🛡️ Yndra - Advanced Passive Reconnaissance & CTI Framework
 
 An advanced, lightweight Python 3 security framework engineered for the initial information-gathering phase (Reconnaissance) during authorized Red Teaming engagements and Cyber Threat Intelligence (CTI) workflows.
 
