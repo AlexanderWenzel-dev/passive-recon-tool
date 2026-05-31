@@ -1,2 +1,2 @@
-dnspython
-requests
+dnspython>=2.6.0
+curl-cffi>=0.7.0
